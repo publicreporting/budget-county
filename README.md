@@ -6,6 +6,6 @@ Investigative Reporting on the County Budget(s)
 ## [County 22-23 buget](docs/general/SHERIDAN_COUNTY_FY23.pdf)
 ## [County 21-22 buget](docs/general/SHERIDAN-COUNTY-FY22-BUDGET.pdf)
 
-## [County 21-22 buget](docs/general/Salary-Publication-6.30.22-8-22-22.pdf)
+## [County Salary-Publication 22](docs/general/Salary-Publication-6.30.22-8-22-22.pdf)
 
-## [County 22-23 buget](docs/general/FY21_Annual_Statement.pdf)
+## [County FY21_Annual_Statement](docs/general/FY21_Annual_Statement.pdf)
